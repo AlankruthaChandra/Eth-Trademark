@@ -1,0 +1,19 @@
+{
+  "zosversion": "2.2",
+  "contracts": {
+    "Counter": "Counter",
+    "Trademark": "Trademark"
+  },
+  "dependencies": {
+    "openzeppelin-eth": "2.2.0"
+  },
+  "name": "zepkit",
+  "version": "1.0.1",
+  "compiler": {
+    "manager": "zos",
+    "compilerSettings": {
+      "optimizer": {}
+    },
+    "solcVersion": "0.5.10"
+  }
+}
